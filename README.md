@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Aizz30
-- 👀 I’m interested in Graphic designing, coding, reading
-- 🌱 I’m currently learning python on udemy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - aishwaryaraj3004@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+I'm Aizz30, a pre-final year BTech student in Electronics and Communication Engineering. 
+I'm passionate about coding and currently learning Python on Udemy. I'm interested in 
+graphic design and reading as well. I'm looking to collaborate on interesting coding projects 
+and learn from other developers on GitHub.
 
 <!---
 Aizz30/Aizz30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
